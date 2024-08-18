@@ -1,0 +1,11 @@
+D:\workspaces\latestVideoclub\src\main\java\com\videoclub\latestvideoclub\config\WebConfig.java
+D:\workspaces\latestVideoclub\src\main\java\com\videoclub\latestvideoclub\controllers\PeliculaController.java
+D:\workspaces\latestVideoclub\src\main\java\com\videoclub\latestvideoclub\entity\Pelicula.java
+D:\workspaces\latestVideoclub\src\main\java\com\videoclub\latestvideoclub\entity\User.java
+D:\workspaces\latestVideoclub\src\main\java\com\videoclub\latestvideoclub\exceptions\ResourceNotFoundException.java
+D:\workspaces\latestVideoclub\src\main\java\com\videoclub\latestvideoclub\LatestVideoclubApplication.java
+D:\workspaces\latestVideoclub\src\main\java\com\videoclub\latestvideoclub\repository\PeliculaRepository.java
+D:\workspaces\latestVideoclub\src\main\java\com\videoclub\latestvideoclub\repository\UserRepository.java
+D:\workspaces\latestVideoclub\src\main\java\com\videoclub\latestvideoclub\services\PeliculaService.java
+D:\workspaces\latestVideoclub\src\main\java\com\videoclub\latestvideoclub\services\TrailerService.java
+D:\workspaces\latestVideoclub\src\main\java\com\videoclub\latestvideoclub\utils\UrlTrailerParser.java
